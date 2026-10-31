@@ -1,0 +1,16 @@
+question,answer,category
+"My phone will not turn on","Check that the battery has charge and try a working charger. If it still will not start, a technician should check the hardware.",Power
+"My phone battery drains quickly","Check battery usage, background apps, screen brightness, and battery condition.",Battery
+"My phone is charging slowly","Try a compatible charger and cable. Check the charging port safely and stop if the phone becomes unusually hot.",Charging
+"My phone has no sound","Check the volume, silent mode, Bluetooth connection, and speaker settings. Test another audio file.",Audio
+"My microphone does not work","Check microphone permissions and test a voice recording. If the problem continues, have the microphone checked.",Audio
+"My phone screen is cracked","Avoid pressing on the damaged screen. Back up important data if possible and ask a qualified technician to assess it.",Screen
+"My phone connects to Wi-Fi but has no internet","Check whether other devices can use the network. Restart the router and phone, then check network settings.",Network
+"My phone is running slowly","Check available storage, restart the phone, close unused apps, and install updates from the phone settings.",Performance
+"I forgot my phone password","Use the manufacturer's official account or device recovery instructions. Check whether a reset could erase data.",Security
+"My phone restarts by itself","Check for software updates, storage space, and battery problems. If it continues, ask a technician to test the hardware.",Power
+"My phone gets hot while charging","Unplug it if it becomes unusually hot and use a compatible charger. Do not continue charging a device that appears damaged.",Charging
+"My phone cannot detect the SIM card","Restart the phone, check that the SIM is seated correctly, and test it in another compatible phone if possible.",Network
+"My camera shows a black screen","Close and reopen the camera app, check camera permissions, and restart the phone.",Camera
+"My phone storage is full","Review large files and unused apps, back up important items, and remove only files you no longer need.",Performance
+"My phone speaker sounds distorted","Lower the volume, test another audio source, and check for visible blockage. If it continues, have the speaker inspected.",Audio

@@ -1,0 +1,1 @@
+# AWS SBG Tasks\n\nWeekly assignments for the AI/ML learning cohort.\n\n- `week-01/` — Week 1 Weather analysis\n- `week-02/` — Phone Repair FAQ Semantic Search\n
